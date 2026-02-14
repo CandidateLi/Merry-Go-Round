@@ -384,8 +384,13 @@
     
 <!-- 音乐：引用同文件夹下的 bgm.mp3 -->
 <audio id="bgm" loop>
-    <source src="./bgm.mp3" type="audio/mpeg">
-</audio>
+[    <source src="./bgm.mp3" type="audio/mpeg">
+](https://github.com/CandidateLi/Merry-Go-Round/raw/refs/heads/main/bgm.mp3
+<audio id="bgm" loop>
+    <https://github.com/CandidateLi/Merry-Go-Round/raw/refs/heads/main/bgm.mp3>
+    <source src="https://github.com/TaoLei/LoveForWizard/raw/main/bgm.mp3" type="audio/mpeg">
+</audio>)
+    </audio>
 
     <script>
         // --- 1. 设置密码 (在这里修改) ---
