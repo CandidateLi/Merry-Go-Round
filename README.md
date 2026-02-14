@@ -382,10 +382,10 @@
     <!-- 音乐控制 -->
     <div id="bgm-controls" onclick="toggleMusic()">♪ Play Music</div>
     
-    <!-- 音乐：哈尔的移动城堡 钢琴版 -->
-    <audio id="bgm" loop>
-        <source src="https://ia800806.us.archive.org/16/items/merry-go-round-of-life-piano/Merry%20Go%20Round%20of%20Life%20%28Piano%29.mp3" type="audio/mpeg">
-    </audio>
+<!-- 音乐：引用同文件夹下的 bgm.mp3 -->
+<audio id="bgm" loop>
+    <source src="./bgm.mp3" type="audio/mpeg">
+</audio>
 
     <script>
         // --- 1. 设置密码 (在这里修改) ---
